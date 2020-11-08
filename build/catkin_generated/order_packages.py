@@ -2,4 +2,4 @@
 source_root_dir = '/home/nvidia/autoCar_ws/src'
 whitelisted_packages = ''.split(';') if '' != '' else []
 blacklisted_packages = ''.split(';') if '' != '' else []
-underlay_workspaces = '/home/nvidia/catkin_ws/devel;/opt/ros/melodic'.split(';') if '/home/nvidia/catkin_ws/devel;/opt/ros/melodic' != '' else []
+underlay_workspaces = '/home/nvidia/autoCar_ws/devel;/opt/ros/melodic'.split(';') if '/home/nvidia/autoCar_ws/devel;/opt/ros/melodic' != '' else []

@@ -1,0 +1,31 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/nvidia/autoCar_ws/devel/include/**",
+                "/opt/ros/melodic/include/**",
+                "/home/nvidia/autoCar_ws/src/racecar/ackermann_cmd_mux/include/**",
+                "/home/nvidia/autoCar_ws/src/RPLidar_Hector_SLAM/hector_slam/hector_geotiff/include/**",
+                "/home/nvidia/autoCar_ws/src/RPLidar_Hector_SLAM/hector_slam/hector_map_tools/include/**",
+                "/home/nvidia/autoCar_ws/src/RPLidar_Hector_SLAM/hector_slam/hector_mapping/include/**",
+                "/home/nvidia/autoCar_ws/src/RPLidar_Hector_SLAM/hector_slam/hector_marker_drawing/include/**",
+                "/home/nvidia/autoCar_ws/src/racecar-controllers/racecar_potential_field_controller/include/**",
+                "/home/nvidia/autoCar_ws/src/racecar/sparkfun_9dof_razor_imu_m0/include/**",
+                "/home/nvidia/autoCar_ws/src/usb_cam/include/**",
+                "/home/nvidia/autoCar_ws/src/vesc/vesc_ackermann/include/**",
+                "/home/nvidia/autoCar_ws/src/vesc/vesc_driver/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
